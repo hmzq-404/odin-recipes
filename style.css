@@ -3,7 +3,7 @@ h1, h2 {
 }
 
 h1 {
-    background-color: lightblue;
+    background-color: lightskyblue;
 }
 
 h2 {
@@ -17,4 +17,15 @@ img {
 
 a { 
     font-size: 20px;
+}
+
+#nav {
+    list-style: none;
+}
+
+#nav li {
+    background-color: lightpink;
+    display: inline-block;
+    padding: 20px;
+    margin: 0 100px;
 }
